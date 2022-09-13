@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vlythr</h1>
-<h3 align="center">Self taught developer from Brazil.</h3>
+<h3 align="center">Aspiring developer from Brazil.</h3>
 
 - 🔭 I’m currently working on **The Odin Project**
 
